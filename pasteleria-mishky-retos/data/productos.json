@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "nombre": "Torta de chocolate húmeda",
+    "categoria": "Tortas",
+    "descripcion": "Bizcocho de cacao cusqueño bañado en ganache de chocolate oscuro, con relleno de manjar blanco artesanal y cubierta brillante. Ideal para cumpleaños y reuniones familiares.",
+    "precio": 68.0,
+    "stock": 6,
+    "porciones": 12,
+    "destacado": true,
+    "imagen": "img/productos/torta-chocolate-humeda.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Torta selva negra",
+    "categoria": "Tortas",
+    "descripcion": "Capas de bizcocho de chocolate, crema chantilly y cerezas al licor, decorada con virutas de chocolate semiamargo. Un clásico elegante para ocasiones especiales.",
+    "precio": 92.0,
+    "stock": 4,
+    "porciones": 14,
+    "destacado": false,
+    "imagen": "img/productos/torta-selva-negra.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Torta tres leches",
+    "categoria": "Tortas",
+    "descripcion": "Bizcocho esponjoso empapado en tres leches y cubierto con merengue suave y un toque de canela. Se prepara por encargo con un día de anticipación.",
+    "precio": 75.0,
+    "stock": 0,
+    "porciones": 12,
+    "destacado": false,
+    "imagen": "img/productos/torta-tres-leches.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cheesecake de maracuyá",
+    "categoria": "Tortas",
+    "descripcion": "Base crujiente de galleta, crema de queso suave y cobertura de maracuyá fresco con un equilibrio perfecto entre dulce y ácido.",
+    "precio": 70.0,
+    "stock": 5,
+    "porciones": 10,
+    "destacado": false,
+    "imagen": "img/productos/cheesecake-maracuya.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Picarones con miel",
+    "categoria": "Postres peruanos",
+    "descripcion": "Seis picarones de zapallo y camote con miel de chancaca e higos.",
+    "precio": 14.0,
+    "stock": 12,
+    "porciones": 6,
+    "destacado": false,
+    "imagen": "img/productos/picarones-con-miel.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Suspiro a la limeña",
+    "categoria": "Postres peruanos",
+    "descripcion": "Dulce de leche sedoso coronado con merengue al oporto, servido en vasito individual. Receta tradicional de la abuela.",
+    "precio": 8.5,
+    "stock": 20,
+    "porciones": 1,
+    "destacado": true,
+    "imagen": "img/productos/suspiro-limeno.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Mazamorra morada",
+    "categoria": "Postres peruanos",
+    "descripcion": "Maíz morado cocido con frutas secas, membrillo, canela y clavo de olor, espesado con chuño. Se sirve fría o tibia.",
+    "precio": 9.0,
+    "stock": 15,
+    "porciones": 1,
+    "destacado": false,
+    "imagen": "img/productos/mazamorra-morada.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "King Kong de manjar blanco",
+    "categoria": "Postres peruanos",
+    "descripcion": "Galleta de capas finas rellena de manjar blanco, dulce de piña y maní. Un bocado gigante para compartir.",
+    "precio": 45.0,
+    "stock": 7,
+    "porciones": 6,
+    "destacado": false,
+    "imagen": "img/productos/king-kong-manjar-blanco.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Croissant de mantequilla",
+    "categoria": "Panes y bollería",
+    "descripcion": "Hojaldre laminado a mano con mantequilla, dorado y crujiente por fuera y tierno por dentro. Horneado cada mañana.",
+    "precio": 5.5,
+    "stock": 30,
+    "porciones": 1,
+    "destacado": true,
+    "imagen": "img/productos/croissant-mantequilla.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Chuta cusqueña",
+    "categoria": "Panes y bollería",
+    "descripcion": "Pan tradicional del Cusco de masa esponjosa y corteza dorada, perfecto para acompañar el desayuno con queso y café.",
+    "precio": 12.0,
+    "stock": 10,
+    "porciones": 1,
+    "destacado": false,
+    "imagen": "img/productos/chuta-cusquena.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Pan ciabatta artesanal",
+    "categoria": "Panes y bollería",
+    "descripcion": "Ciabatta de fermentación lenta con miga alveolada y corteza fina. Excelente para sándwiches y tostadas.",
+    "precio": 9.5,
+    "stock": 14,
+    "porciones": 1,
+    "destacado": false,
+    "imagen": "img/productos/pan-ciabatta.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Roll de canela",
+    "categoria": "Panes y bollería",
+    "descripcion": "Masa suave enrollada con canela y azúcar morena, cubierta con glaseado de vainilla. Se sirve tibio.",
+    "precio": 7.5,
+    "stock": 18,
+    "porciones": 1,
+    "destacado": false,
+    "imagen": "img/productos/roll-canela.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Alfajores de maicena",
+    "categoria": "Galletas y bocaditos",
+    "descripcion": "Caja de doce alfajores de maicena rellenos de manjar blanco y bañados en coco rallado. Se deshacen en la boca.",
+    "precio": 24.0,
+    "stock": 18,
+    "porciones": 12,
+    "destacado": true,
+    "imagen": "img/productos/alfajores-maicena.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Galletas de avena y pasas",
+    "categoria": "Galletas y bocaditos",
+    "descripcion": "Galletas suaves de avena integral con pasas rubias y un toque de canela. Bolsa de ocho unidades.",
+    "precio": 16.0,
+    "stock": 0,
+    "porciones": 8,
+    "destacado": false,
+    "imagen": "img/productos/galletas-avena-pasas.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Galletas de quinua y chocolate",
+    "categoria": "Galletas y bocaditos",
+    "descripcion": "Galletas crocantes con quinua pop y chispas de chocolate semiamargo. Bolsa de ocho unidades.",
+    "precio": 18.0,
+    "stock": 9,
+    "porciones": 8,
+    "destacado": false,
+    "imagen": "img/productos/galletas-quinua-chocolate.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Brownie bites",
+    "categoria": "Galletas y bocaditos",
+    "descripcion": "Bocaditos de brownie intenso con nueces, cortados en cubos. Caja de doce unidades para regalar o compartir.",
+    "precio": 20.0,
+    "stock": 14,
+    "porciones": 12,
+    "destacado": false,
+    "imagen": "img/productos/brownie-bites.jpg"
+  }
+]
